@@ -4,9 +4,7 @@ Each task focuses on practical applications of Python and Machine Learning conce
 
  ✅ Completed Tasks
 
-| Task No. | Title                                | Description                                                                                               | File Name                             |
-|----------|--------------------------------------|------------------------------------------------------------------|----------------------------------------|---------------------------------------|
-| Task 1   | Linear Regression (Basic)            | Built a simple linear regression model using scikit-learn to predict exam scores based on hours studied.  | Linear-regression(task 1-basic).ipynb |
+ Task 1: Linear Regression (Basic) ✅ 
 
 
 
@@ -19,7 +17,7 @@ Each task focuses on practical applications of Python and Machine Learning conce
 
  📌 Notes
 . This repository will be regularly updated with new internship tasks.
-. The goal is to apply and improve my skills in machine learning and data analysis.
+. The goal is to apply and improve my skills in Artificial Intelligence.
 
 
  🔗 Let's Connect
