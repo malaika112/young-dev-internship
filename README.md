@@ -4,6 +4,7 @@ This repository contains all the tasks completed as part of my internship with "
 Each task focuses on practical applications of Python and Artificial Intelligence concepts.
 
 ✅ Completed Tasks
+
   Task 1-Linear Regression (Basic)            
   Task 2-Descriptive Statistics(Basic)               
   Task 3-Iris Classification (Decision Tree) (Basic)  
