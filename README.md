@@ -13,7 +13,7 @@ Each task focuses on practical applications of Python and Artificial Intelligenc
 🔸 Intermediate Level
   Task 1-Responsive Web Design in Figma
   Task 2-Data Preprocessing for Machine Learning
-  Task 3: Model Training & Cross-Validation
+  Task 3-Model Training & Cross-Validation
   
  
 🛠️ Tools & Technologies Used  
@@ -23,7 +23,7 @@ Each task focuses on practical applications of Python and Artificial Intelligenc
 . pandas  
 . Matplotlib  
 . scikit-learn 
-. Figma
+.  Figma
 
 
 📌 Notes  
