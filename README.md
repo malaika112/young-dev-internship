@@ -14,6 +14,9 @@ Each task focuses on practical applications of Python and Artificial Intelligenc
   Task 1-Responsive Web Design in Figma
   Task 2-Data Preprocessing for Machine Learning
   Task 3-Model Training & Cross-Validation
+
+  🔺 Expert Level
+  Task 1-Advanced Model with Hyperparameter Tuning  
   
  
 🛠️ Tools & Technologies Used  
@@ -24,6 +27,7 @@ Each task focuses on practical applications of Python and Artificial Intelligenc
 . Matplotlib  
 . scikit-learn 
 .  Figma
+. Seaborn
 
 
 📌 Notes  
