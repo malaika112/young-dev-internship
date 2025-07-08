@@ -14,8 +14,8 @@ Each task focuses on practical applications of Python and Artificial Intelligenc
   Task 1-Responsive Web Design in Figma
   Task 2-Data Preprocessing for Machine Learning
   Task 3: Model Training & Cross-Validation
-
-
+  
+ 
 🛠️ Tools & Technologies Used  
 . Python  
 . Jupyter Notebook  
@@ -24,6 +24,7 @@ Each task focuses on practical applications of Python and Artificial Intelligenc
 . Matplotlib  
 . scikit-learn 
 . Figma
+
 
 📌 Notes  
 . This repository will be regularly updated with internship tasks from YoungDev.  
