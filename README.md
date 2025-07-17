@@ -1,7 +1,7 @@
 # YoungDev Internship Tasks
 
 This repository contains all the tasks completed as part of my internship with "YoungDev".  
-Each task focuses on practical applications of Python and Artificial Intelligence concepts.
+Each task focuses on practical applications of Python, AI/ML, and deep learning concepts, using real-world and built-in datasets.
 
 ✅ Completed Tasks
 
@@ -16,7 +16,8 @@ Each task focuses on practical applications of Python and Artificial Intelligenc
   Task 3-Model Training & Cross-Validation
 
   🔺 Expert Level
-  Task 1-Advanced Model with Hyperparameter Tuning  
+  Task 1-Advanced Model with Hyperparameter Tuning 
+  Task 2-Deep Learning: CNN Model for Image Classification 
   
  
 🛠️ Tools & Technologies Used  
@@ -25,9 +26,12 @@ Each task focuses on practical applications of Python and Artificial Intelligenc
 . NumPy  
 . pandas  
 . Matplotlib  
-. scikit-learn 
-.  Figma
-. Seaborn
+. Seaborn  
+. scikit-learn  
+. TensorFlow  
+. Keras  
+. Figma  
+. Kaggle Datasets 
 
 
 📌 Notes  
